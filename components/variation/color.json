@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_variation_colors",
+  "info": {
+    "name": "color",
+    "icon": "egg"
+  },
+  "options": {},
+  "attributes": {
+    "variations": {
+      "type": "string"
+    }
+  }
+}
