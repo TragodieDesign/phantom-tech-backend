@@ -62,6 +62,10 @@
       "type": "component",
       "repeatable": true,
       "component": "variation.color"
+    },
+    "orders": {
+      "via": "product",
+      "collection": "order"
     }
   }
 }
